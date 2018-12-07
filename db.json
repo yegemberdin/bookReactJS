@@ -1,0 +1,91 @@
+{
+  "books":[
+{
+        "author": "E L James",
+        "uri": "http://omslag.boktugg.se/9789113085562.jpg?w=250",
+        "title": " Fifty Shades trilogy ",
+       "description": "It is the first instalment in the that traces the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey. It is notable for its explicitly erotic scenes featuring elements of sexual practices involving bondage/discipline, dominance/submission, and sadism/masochism (BDSM). Originally self-published as an ebook and a print-on-demand, publishing rights were acquired by Vintage Books in March 2012. "
+        
+    },
+    {
+        "author": "Niklas Natt och Dag",
+        "uri": "http://omslag.boktugg.se/9789137150253.jpg?w=250",
+        "title": "1793",
+        "description": "In this breathtakingly bold, intricately constructed novel set in 18th century Stockholm, a dying man searches among the city’s teeming streets, dark corners, and intriguing inhabitants to unmask a ruthless murderer—perfect for fans of Perfume and The Alienist. "
+      
+    },
+    {
+        "author": "Dan Brown",
+        "uri": "http://omslag.boktugg.se/9789100173036.jpg?w=250",
+        "title": "Begynnelse",
+        "description": "Robert Langdon, professor i religiös symbolik vid Harvard, anländer till Guggenheimmuseet i Bilbao för att närvara vid avslöjandet av en upptäckt som enligt inbjudan kommer att 'förändra vetenskapen för alltid'. Edmond Kirsch, en fyrtioårig miljardär som blivit världskänd för sina hypermoderna tekniska uppfinningar och djärva förutsägelser, var en gång Langdons student."
+       
+    },
+    {
+        "author": "Karin Wahlberg",
+        "uri": "http://omslag.boktugg.se/9789146233534.jpg?w=250",
+        "title": "Lätta ditt hjärta",
+        "description": "Description not available."
+       
+    },
+    {
+        "author": "Nora Roberts",
+        "uri": "http://omslag.boktugg.se/9789100173357.jpg?w=250",
+        "title": "Kidnapparen",
+        "description": "Description not available."
+       
+    },
+    {
+        "author": "Marie Hermansson",
+       " uri": "http://omslag.boktugg.se/9789100169992.jpg?w=250",
+       " title": "Den stora utställningen",
+        "description": "Description not available."
+       
+    },
+    {
+        "author": "David Baldacci",
+        "uri": "http://omslag.boktugg.se/9789176295700.jpg?w=250",
+        "title": "Slutspel",
+        "description": "Description not available."
+     
+    },
+    {
+        "author": "unknown",
+        "uri": "http://omslag.boktugg.se/9789100167257.jpg?w=250",
+        "title": "En äkta man",
+        "description": "Description not available."
+        
+    },
+    
+    {
+        "author": "unknown",
+        "uri": "http://omslag.boktugg.se/9789150931099.jpg?w=250",
+        "title": "Pappas pojk",
+        "description": "Description not available."
+        
+    },
+ {
+        "author": "Marie Hermansson",
+       " uri": "http://omslag.boktugg.se/9789100169992.jpg?w=250",
+       " title": "Den stora utställningen",
+        "description": "Description not available."
+       
+    },
+  {
+        "author": "Dan Brown",
+        "uri": "http://omslag.boktugg.se/9789100173036.jpg?w=250",
+        "title": "Begynnelse",
+        "description": "Robert Langdon, professor i religiös symbolik vid Harvard, anländer till Guggenheimmuseet i Bilbao för att närvara vid avslöjandet av en upptäckt som enligt inbjudan kommer att 'förändra vetenskapen för alltid'. Edmond Kirsch, en fyrtioårig miljardär som blivit världskänd för sina hypermoderna tekniska uppfinningar och djärva förutsägelser, var en gång Langdons student."
+       
+    },
+ {
+        "author": "unknown",
+        "uri": "http://omslag.boktugg.se/9789150931099.jpg?w=250",
+        "title": "Pappas pojk",
+        "description": "Description not available."
+        
+    }
+
+
+]
+}
